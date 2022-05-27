@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "model": "Max Pro",
+      "makeYear": "2016",
+      "operatingSystems": "MacOS",
+      "screenHeight": "14",
+      "screenWidth": "16",
+      "price": "40000",
+      "id": 1
+    },
+    {
+      "model": "g50",
+      "makeYear": "2020",
+      "operatingSystems": "i3",
+      "screenHeight": "15",
+      "screenWidth": "12",
+      "price": "25634",
+      "id": 2
+    },
+    {
+      "model": "hp",
+      "makeYear": "2000",
+      "operatingSystems": "i2",
+      "screenHeight": "35",
+      "screenWidth": "41",
+      "price": "1354325",
+      "id": 3
+    },
+    {
+      "model": "g50",
+      "makeYear": "2020",
+      "operatingSystems": "i3",
+      "screenHeight": "45",
+      "screenWidth": "35",
+      "price": "85652",
+      "id": 4
+    }
+  ]
+}
